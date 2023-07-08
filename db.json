@@ -1,0 +1,24 @@
+{
+  "feedbacks": [
+    {
+      "text": "This is feedback item 2 coming from the backend Now Nexascale!",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "text": "First test from Nexascale--- edited ",
+      "rating": 4,
+      "id": "1cc0d0e3-2bcd-45ce-a55b-8755c49bc5e8"
+    },
+    {
+      "text": "Second test from Nexascale edited",
+      "rating": 3,
+      "id": "4e87aee7-b6a7-4508-9d35-f881610ab084"
+    },
+    {
+      "text": "Create Read Update Delete Nexascale App",
+      "rating": 4,
+      "id": "f9d64027-96e8-4e9e-9753-556d692c05ae"
+    }
+  ]
+}

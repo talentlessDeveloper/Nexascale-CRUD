@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth transition-colors duration-300;
+  }
+
+  body {
+    @apply bg-primary dark:bg-darkPrimary text-secondary dark:text-darkSecondary;
+  }
+}
+
+@layer components {
+  .nexa-container {
+    @apply w-10/12 mx-auto px-2 md:px-5;
+  }
+}
